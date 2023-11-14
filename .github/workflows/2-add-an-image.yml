@@ -5,7 +5,7 @@ name: Step 2, Add an image
 
 # This will run every time we create push a commit to `start-markdown`.
 # Reference: https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows
-on:
+on:  
   workflow_dispatch:
   push:
     branches:
