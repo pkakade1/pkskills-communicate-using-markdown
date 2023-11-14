@@ -1,6 +1,6 @@
 name: Step 1, Add headers
 
-# This step triggers after a commit on the branch `start-markdown`.
+# This step triggers after a commit on the branch `start-markdown`. 
 # This workflow updates from step 1 to step 2.
 
 # This will run every time we create push a commit to `start-markdown`.
