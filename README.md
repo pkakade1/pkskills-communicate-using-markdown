@@ -37,12 +37,7 @@ In this course, you will:
 
 ###### This is an `<h6>` header, which is the smallest
 2. ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-3. <!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
---> 
-
+3. 
 ## Step 3: Add a code example
 
 _Great job adding an image to the file :tada:_
@@ -79,11 +74,7 @@ var myVar = "Hello, world!";
 var myVar = "Hello, world!";
 ```
 
-4. <!--
-  <<< Author notes: Step 4 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
--->
+4. 
 
 ## Step 4: Make a task list
 
