@@ -12,7 +12,7 @@ _Great job adding a code example to the file :partying_face:_
 
 ### Example
 
-```
+```   
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
