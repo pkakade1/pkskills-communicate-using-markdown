@@ -36,7 +36,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 In this course, you will:
 
 1. Add headers
-2. Add an image
+2. ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 3. Add a code example
 4. Make a task list
 5. Merge your pull request
