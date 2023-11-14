@@ -1,0 +1,78 @@
+ # This is an `<THE>` header, which is the largest
+
+## This is an `<the>` header
+
+###### This is an `<h6>` header, which is the smallest
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)    
+## Step 3: Add a code example
+
+_Great job adding an image to the file :tada:_
+
+In addition to code blocks, some code blocks should be rendered differently depending on the language, such as JavaScript or command-line text.
+
+### Example 1
+
+<pre>
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+</pre>
+
+#### How it looks
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+### Example 2
+
+<pre>
+``` javascript
+var myVar = "Hello, world!";
+```
+</pre>
+
+#### How it looks
+
+```javascript
+var myVar = "Hello, world!";
+```
+
+
+## Step 4: Make a task list
+
+_Great job adding a code example to the file :partying_face:_
+
+**What is a _task list_?** A task list creates checkboxes to check off. They're very useful for tracking issues and pull requests. If you include a task list in the body of an issue or pull request, you'll see a progress indicator in your issue list. The syntax for task lists is very specific. Be sure to include the spaces where required, or else they won't render.
+
+### Example
+
+```   
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+```
+
+#### How it looks
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+### :keyboard: Activity: Add a task list
+
+GitHub Actions went ahead and made a branch for you. So you'll need to add to the file we've created in the branch, and we will check your work as you work through this course!
+
+1. Return to your pull request.
+1. Use Markdown to create a task list. Here is an example:
+
+   ```md
+   - [ ] Turn on GitHub Pages
+   - [ ] Outline my portfolio
+   - [ ] Introduce myself to the world
+   ```
+
+
+### How to start this course
+
